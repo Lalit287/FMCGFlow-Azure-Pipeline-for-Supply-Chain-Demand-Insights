@@ -43,8 +43,10 @@ Visualization: Power BI Desktop / Service
 Tools: Azure Portal, Azure CLI, Data Factory Studio
 
 
-📂 Project Modules
+📂 Project Modules:
+
 Module	Description
+
 Data Ingestion	Upload dataset to Azure Blob Storage and access via SDK or ADF
 Data Cleaning	Remove nulls, fix formats, compute adjusted revenue, filter anomalies
 Feature Engineering	Extract time-based features, create holiday flags, summarize competitor & economic indexes
@@ -55,6 +57,7 @@ Security & Monitoring	Manage credentials in Key Vault; track pipelines in Azure 
 
 
 📊 Power BI Dashboard Highlights
+
 Time Series Analysis: Weekly sales and revenue trends
 
 Category & Region Insights: Compare product performance by geography and store type
